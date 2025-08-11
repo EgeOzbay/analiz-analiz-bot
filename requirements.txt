@@ -1,0 +1,6 @@
+telegram-bot/
+│-- bot.py
+│-- requirements.txt
+│-- Procfile
+│-- .gitignore
+│-- .env.example
